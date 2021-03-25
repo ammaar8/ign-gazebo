@@ -6,7 +6,7 @@
   using the default configuration, saved at `~/.ignition/gazebo/gui.config`.
 
   The default configuration can be edited manually, or by choosing
-  `Save configuration` from the top-left menu.
+  `Save client configuration` from the top-left menu.
 
   A custom configuration can be used by passing a config file with
   `--gui-config`.
